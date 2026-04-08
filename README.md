@@ -1,4 +1,4 @@
-# Slack-to-Antigravity Local Coding Assistant 🚀
+# Slack-to-Ollama Local Coding Agent
 
 A lightweight, secure Node.js background service that connects local AI capabilities directly to your Slack workspace. This bot runs entirely on your local machine and listens into Slack via Socket Mode, enabling you to securely execute bash commands, manage Git repositories, and edit your code files conversationally straight from a Slack Direct Message.
 
